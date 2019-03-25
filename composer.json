@@ -11,7 +11,7 @@
     "magento/module-customer": "^100.0.0 | ^101.0.0 | ^102.0.0",
     "magento/module-payment": "^100.0.0 | ^101.0.0 | ^102.0.0",
     "magento/module-backend": "^100.0.0 | ^101.0.0 | ^102.0.0",
-    "magento/framework": "^100.0.0 | ^101.0.0 | ^102.0.0",
+    "magento/framework": "^102.0.0",
     "heidelpay/php-message-code-mapper": "~1.0",
     "heidelpay/php-basket-api": "~1.0",
     "heidelpay/php-payment-api": "~1.4"
